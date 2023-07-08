@@ -1,21 +1,24 @@
 # Spotify Crack - Chrome App
-<h2>For MacOS, Windows & Linux
+
+## For MacOS, Windows & Linux
 
 ## What's New:
 
-- Removed all ads
+- Remove all ads
 - No need to skip ads
-- Removed premium and install buttons😁
+- Remove premium and install buttons 😁
 
-<img width="1440" alt="Screenshot 2022-01-08 at 9 34 45 AM" src="https://user-images.githubusercontent.com/83419951/148630845-7035d19b-895b-4b5b-aca4-ac5f61432391.png">
-  
-## How to install
+![Screenshot](https://user-images.githubusercontent.com/83419951/148630845-7035d19b-895b-4b5b-aca4-ac5f61432391.png)
 
-1. Clone or download this repo into a folder.
-1. Go to chrome://extensions
-2. Make sure **Developer mode** (in the upper right corner) is ON.
-3. Drag & drop the folder that contains this repo there.
-4. Open Spotify Web and open chrome `Options > More Tools > Create Shortcut...`
-5. Check `Open as window` & hit Create
-6. Open Spotify as App
-7. Don't delete folder containing repo else it won't work.
+## How to Install:
+
+1. Clone or download this repository into a folder.
+2. Open Chrome and go to `chrome://extensions`.
+3. Ensure that **Developer mode** (in the upper right corner) is ON.
+4. Drag and drop the folder containing this repository onto the `chrome://extensions` page.
+5. Open Spotify Web and go to `Options > More Tools > Create Shortcut...`.
+6. Check the box labeled "Open as window" and click on "Create."
+7. Open Spotify as an app.
+8. Do not delete the folder containing this repository, as it is required for the app to work properly.
+
+Enjoy an ad-free Spotify experience with Spotify Crack!
